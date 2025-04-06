@@ -17,6 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmadARN&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+![GitHub Contributions](https://contrib.rocks/image?user=EmadARN)
 [![](https://visitcount.itsvg.in/api?id=EmadARN&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ### 🔝 Top Contributed Repo
