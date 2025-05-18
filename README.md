@@ -3,7 +3,7 @@
 
 <p align="center">
   Frontend Developer, battling bugs & loving challenges! 😎🔥<br/>
-  <img src="https://github.com/user-attachments/assets/f742fa73-2ca7-4e67-84b2-932483c86311/2331990d-2998-429f-9f9b-3d14161dce93" width="300" />
+  <img src="https://github.com/user-attachments/assets/f742fa73-2ca7-4e67-84b2-932483c86311" width="300" />
 </p>
 
 
