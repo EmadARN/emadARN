@@ -1,8 +1,10 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Hey+there!+I'm+Emad+👋;Frontend+Developer+%7C+Bug+Hunter+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
 
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 Frontend Developer, battling bugs & loving challenges! 😎🔥
-
+![2331990d-2998-429f-9f9b-3d14161dce93](https://github.com/user-attachments/assets/f742fa73-2ca7-4e67-84b2-932483c86311)
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emad-araban/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arabanemad@gmail.com) 
