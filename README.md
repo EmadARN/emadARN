@@ -18,7 +18,6 @@ Frontend Developer, battling bugs & loving challenges! 😎🔥
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EmadARN&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
