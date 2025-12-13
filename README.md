@@ -1,7 +1,7 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Hey+there!+I'm+Emad+👋;Frontend+Developer+%7C+Bug+Hunter+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
 
-  Frontend Developer, battling bugs & loving challenges! 😎🔥<br/>
+  Frontend Developer, loving challenges! 😎🔥<br/>
 
 
 ## 🌐 Socials:
